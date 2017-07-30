@@ -1,0 +1,17 @@
+{
+  "name": "userdirectoryexpress",
+  "version": "1.0.0",
+  "description": "Create a user directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mustache": "^2.3.0",
+    "mustache-express": "^1.2.5",
+    "path": "^0.12.7"
+  }
+}

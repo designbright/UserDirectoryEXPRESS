@@ -7,4 +7,3 @@ https://tiy-learn-content.s3.amazonaws.com/36d3402e-data.js
 The amount of info each user has varies. Users with no job or company data are currently looking for work.
 
 Your directory should look like the following images. Your CSS should be in a file in the /public/ directory and be served through Express.
-# UserDirectoryEXPRESS
